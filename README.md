@@ -3,6 +3,7 @@ Teste de Software realizado no site sneakers Store, desenvolvido pelo professor 
 
 # 🤔 O que testamos?
 1 - Abrir o site
+<br>
 2 - Selecionar um tenis
 3 - Selecionar o tamanho
 4 - Selecionar a cor
